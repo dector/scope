@@ -1,0 +1,3 @@
+task run {
+  cmd "go run ./cmd/scope"
+}
